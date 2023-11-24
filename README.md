@@ -4,7 +4,7 @@
 
 [![Homepage](https://img.shields.io/badge/homepage-%23.svg?&style=for-the-badge&logo=internetexplorer&logoColor=white)](http://maxriegler.at)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-riegler-3595b110a/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow-id)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1961059/maximilian-riegler)
 <a rel="me" href="https://graz.social/@rinukkusu" target="_blank">![Mastodon](https://img.shields.io/badge/Mastodon-9F8FED.svg?&style=for-the-badge&logo=mastodon&logoColor=white)</a>
 
 ![C#](https://img.shields.io/badge/C%23-blue.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
